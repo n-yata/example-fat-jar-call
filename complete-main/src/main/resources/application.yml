@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: complete-main
+flyway:
+  datasources:
+    default:
+      enabled: false

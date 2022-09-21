@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: complete-layer2
+flyway:
+  datasources:
+    default:
+      enabled: false
